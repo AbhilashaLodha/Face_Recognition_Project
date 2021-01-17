@@ -64,9 +64,9 @@ def genrt_face_encodings(image_path):
 
 # this function compare an image with a list of images and predict if a match was found in the list
 # known_faces = list of encoding of known faces; a list must be passed for this argument
-# unknown_face = unknown face
-# should we also add a validation to make sure that there should not be more than one person in the image being passed in order to avoid the security breach where
-# accidental scanning of an eligible person lead to the passed entry of a wrong person?
+# unknown_face = facial encodings not present in the pickle database file
+# we should also add a validation to make sure that there should not be more than one person in the image being passed in order to avoid the security breach where
+# accidental scanning of an eligible person lead to the passed entry of a wrong person
 
 def match_face(known_faces, unknown_face):
     results = face_recognition.compare_faces(known_faces,unknown_face,tolerance=0.4)
