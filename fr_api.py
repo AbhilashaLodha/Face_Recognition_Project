@@ -12,12 +12,7 @@ image_folder = 'images_recog'
 app = Flask(__name__)
 
 
-# face database will be different for the different facilities. Given that, our recognize_face needs to know which database it needs to look for the match.
-# Potential approaches are given below
-# 1 - Can we create different APIs for the different facility and expose only that api to the facility? in that case below recognize_face api will be like face_recognition_bdc7
-#     and the encodings for that facilties only will be used in the recognize_face method.
-# 2 - Can we parameterized the api with a facility name parameter?
-
+# Api used for Employee Identification
 @app.route('/recognize_face',methods=['GET','POST'])
 def recognize_face():
     result={}
@@ -50,6 +45,7 @@ def recognize_face():
     return jsonify(result)
 
 
+# Api used for Employee Enrollment
 @app.route('/create_face_db',methods = ['GET','POST'])
 def create_face_db():
     result = {}
@@ -65,6 +61,7 @@ def create_face_db():
     return jsonify(result)
 
 
+# Api used for updating the pickle database file
 @app.route('/update_face_db',methods = ['GET','POST'])
 def update_face_db():
     result = {}
