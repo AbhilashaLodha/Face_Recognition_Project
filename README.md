@@ -20,4 +20,5 @@ The main idea behind the project is:
 2. Employees' Identification - For check-in purposes, the employee's face would be matched with the facial encodings present in the database. If a match is found, the employee, thus, gets recognised. The generated report says that the particular employee's face got matched.
 
 3. Updating Employee's Enrollment Database file - The updation of the pickle database file happens according to the following flowchart:
+![Screen Shot 2021-01-18 at 1 47 44 AM](https://user-images.githubusercontent.com/77407100/104854888-46238500-592f-11eb-92ec-485f8e295a13.png)
 
