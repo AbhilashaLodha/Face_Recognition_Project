@@ -2,7 +2,7 @@
 The project enrols and identifies employees using face recognition techniques. The main libraries used are dlib, face_recognition, opencv.  
 
 ### Aim
-The project is mainly built with the aim of safe employee check-in amid Covid-19 crisis. Technologies like Fingerprint scanners require that many people touch the same surface, which could potentially spread infection if someone with Covid-19 were to use an unclean scanner. Facial recognition technology is on the other hand, an excellent method for identifying individuals without the risk of close contact amid coronavirus concerns. 
+The project is mainly built with the aim of safe employee check-ins amid Covid-19 crisis. Technologies like Fingerprint scanners require that many people touch the same surface, which could potentially spread infection if someone with Covid-19 were to use an unclean scanner. Facial recognition technology is on the other hand, an excellent method for identifying individuals without the risk of close contact amid coronavirus concerns. 
 It is suitable for government, customs, airports, railway stations, enterprises, schools, communities, surveillance, and other crowded public places.
 
 ### Code files
