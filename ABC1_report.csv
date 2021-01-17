@@ -1,0 +1,25 @@
+ENTERPRISE_ID,NAME,FACILITY,FLOOR,STATUS
+AJ.Cook,AJ_Cook,ABC1,6,Face Added into DB
+AJ.Lamas,AJ_Lamas,ABC1,1,Face Added into DB
+Aaron.Eckhart,Aaron_Eckhart,ABC1,8,Face Added into DB
+Aaron.Guiel,Aaron_Guiel,ABC1,4,Face Added into DB
+Aaron.Patterson,Aaron_Patterson,ABC1,7,Face Added into DB
+Aaron.Peirsol,Aaron_Peirsol,ABC1,2,Face Added into DB
+Aaron.Pena,Aaron_Pena,ABC1,4,Face Added into DB
+Aaron.Sorkin,Aaron_Sorkin,ABC1,3,Face Added into DB
+Aaron.Tippin,Aaron_Tippin,ABC1,3,Face Added into DB
+Abba.Eban,Abba_Eban,ABC1,4,Face Added into DB
+Abbas.Kiarostami,Abbas_Kiarostami,ABC1,7,Face Added into DB
+Abdel.Aziz.Al-Hakim,Abdel_Aziz_Al-Hakim,ABC1,2,Not Added into DB; More than 1 face found
+Abdel.Madi.Shabneh,Abdel_Madi_Shabneh,ABC1,2,Face Added into DB
+Abdel.Nasser.Assidi,Abdel_Nasser_Assidi,ABC1,6,Not Added into DB; More than 1 face found
+Abdoulaye.Wade,Abdoulaye_Wade,ABC1,3,Face Added into DB
+Abdul.Majeed.Shobokshi,Abdul_Majeed_Shobokshi,ABC1,7,Face Added into DB
+Abdul.Rahman,Abdul_Rahman,ABC1,5,Face Added into DB
+Abdulaziz.Kamilov,Abdulaziz_Kamilov,ABC1,2,Not Added into DB; More than 1 face found
+Abdullah,Abdullah,ABC1,6,Face Added into DB
+Abdullah.Ahmad.Badawi,Abdullah_Ahmad_Badawi,ABC1,2,Face Added into DB
+Diana.Taylor,Diana_Taylor,ABC1,6,Newly Added into DB
+Edmund.Hillary,Edmund_Hillary,ABC1,4,Newly Added into DB
+Gary.Barnett,Gary_Barnett,ABC1,7,Newly Added into DB
+Harbhajan.Singh,Harbhajan_Singh,ABC1,4,Newly Added into DB
